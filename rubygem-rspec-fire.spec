@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-fire
 Version  : 1.3.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/rspec-fire-1.3.0.gem
 Source0  : https://rubygems.org/downloads/rspec-fire-1.3.0.gem
 Summary  : No detailed summary available
